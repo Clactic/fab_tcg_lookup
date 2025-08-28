@@ -38,7 +38,7 @@ pip install -r requirements.txt
 - Ensure your CSVs have columns: `TCGPlayerId`, `Printing`, `Quanity`, etc.
 
 ### 5. Configure API Keys
-
+- Sign up to https://justtcg.com/ and Generate your API key
 - Edit `config.py` and set your TCGPlayer API key and base URL.
 
 ### 6. Run the Script
